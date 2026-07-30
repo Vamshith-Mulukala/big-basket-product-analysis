@@ -66,4 +66,4 @@ notebook/
 
 ## 👨‍💻 Author
 
-Vamshi Mulukalla
+Vamshith Mulukala
